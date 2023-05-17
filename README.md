@@ -6,7 +6,7 @@ challenge solves. Additionally, it can play videos on the host computer when req
 ## 🚀 Installation
 
 1. Clone the repository: `git clone https://github.com/RomanY467/CTF_Alerts.git`
-2. Install the required dependencies: `pip install requests moviepy`
+2. Install the required dependencies: `pip3 install requests moviepy`
 
 ## 🎯 Usage
 
